@@ -15,6 +15,7 @@ This Power BI dashboard provides insights into Netflix content trends, including
 
 ## 📁 Files
 - `Netflix_Data_Analysis_Dashboard.pbix`: Power BI project file
+- `Netflix TV Shows and Movies.xlsx` : Excel Raw data
 
 ## 📸 Dashboard Preview
 *<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/48c341cf-e087-4cdd-87bd-3a9c77254fd6" />
